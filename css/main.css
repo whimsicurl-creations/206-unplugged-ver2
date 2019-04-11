@@ -241,9 +241,18 @@ footer .social-icons {
 }
 
 footer .social-icons p {
+    background-color: #527158;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 0 20px;
+}
+
+footer .social-icons p i {
+    font-size: 1.3em;
 }
 
 footer .copyright {
