@@ -326,6 +326,7 @@ input[type=button] {
 
 .features h2 {
     margin-bottom: 60px;
+    text-align: center;
 }
 
 .features article {
@@ -592,7 +593,7 @@ input[type=button] {
 
     /* Features */
     .features h2 {
-        margin: 0 20px 20px 0;
+        margin: 20px auto;
     }
 
     .features article {
